@@ -17,7 +17,7 @@ services:
         icon: fas fa-link       
       - title: "Implementation"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-cogs
+        icon: fas fa-cogs
 
 portfolio:
     title: "Portfolio"
