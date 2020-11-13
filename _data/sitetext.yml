@@ -6,55 +6,55 @@ header:
 
 services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Enable your team to accomplish more."
     section: services
     list:
       - title: "Automation"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Spend your time on things that require you to use your judgement and thinking power. Leave the redundant, repetetive tasks to the computer. Perform routine analysis for planning, building, public works utilities, dashboarding, and reporting. Extract, transform, import and export data to and from your business formats."
         icon: fas fa-laptop-code #find more at https://fontawesome.com/icons
       - title: "Integration"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Organizations often enter information into more than one system to enable reporting and dashboarding. Integration eliminates the need for duplicate and repetetive data entry. It also enables more complete analysis, reporting and projecting. Asset management operations dashboarding and visualization. Real-time geographic visualization of 3rd-party system information."
         icon: fas fa-link       
       - title: "Implementation"
-        desc: "Your description here, full **Markdown** support"
+        desc: "Many systems are compatible with GIS or allow for integration. You still need someone who understands how systems talk to each other to wire it all up and get things talking. That's where I come in. This also involves Geodatabase design and build, GIS workflow optimization, ArcGIS Desktop Custom Add-ins, and good old-fashioned troubleshooting."
         icon: fas fa-cogs
 
 portfolio:
     title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "What have I done?! ;)"
     section: portfolio
     
 
 timeline:
     title: "Approach" 
-    text: "What to expect."
+    text: "Look for a great experience."
     section: timeline
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "TALK TO ME"
+        year: "You're the expert."
+        desc: "I've found that customers know their job well and have some of the best ideas of how it could be done better. Often, that involves better tools. **I provide digital tools, custom crafted around your ideas.** So we start with some good questions and intent listening."
         image: assets/img/timeline/1.jpg
         alt: 
         align: left
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "HOW DO YOU LIKE YOUR STEAK?"
+        year: "It's your preference."
+        desc: "Everyone has their preference of how they'd like things done. There's more than one way to... well, I don't know anyone who skins cats. I like to deliver something that improves your ability to do your work using skills you're most familiar and comfortable with. A **variety of language and platform options** allow me to deliver tools that enable you to maintain a feeling of control over the tools I provide. When a server is upgraded or a dataset gets renamed, you'll be able to keep things running with minimal training."
         image: assets/img/timeline/2.jpg
         alt: 
         align: right
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "WORK TOGETHER"
+        year: "Be part of the process."
+        desc: "I'm not one to gather all the requirements, go hide in my bat cave and return with a mysterious black box. I've seen that as I start to develop tools, customers start to see what's possible, leading to innovations to the way you work and the final product. Idea sharing and continued **brainstorming along the way** has always led to something better than we originally imagined."
         image: assets/img/timeline/3.jpg
         alt: image alt text
         #align: #default is left       
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "GEOBILITATION"
+        year: "I'll help you launch."
+        desc: "Even the best tools need a little training. I'd like to make sure your team know's the tool they've received and has the documentation they need. When I hand over the keys, you'll be ready for **lift off!**"
         image: assets/img/timeline/4.jpg
         alt: 
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "LET ME BE <br> PART OF YOUR <br> TEAM!"
 
 about:
     title: "Approach"
@@ -99,12 +99,12 @@ team:
         role: "Geospatial Software Consultant"
         image: assets/img/team/Doug.jpg
         social:
-          - url: https://community.esri.com/t5/user/viewprofilepage/user-id/70326
-            icon: fas fa-globe-americas
-          - url: https://www.linkedin.com/in/geobilitydoug/
-            icon: fab fa-linkedin-in
-          - url: mailto:doug@geobilityco.com
-            icon: fas fa-at
+          # - url: https://community.esri.com/t5/user/viewprofilepage/user-id/70326
+          #   icon: fas fa-globe-americas
+          # - url: https://www.linkedin.com/in/geobilitydoug/
+          #   icon: fab fa-linkedin-in
+          # - url: mailto:doug@geobilityco.com
+          #   icon: fas fa-at
       - name: ""
         role: "Fun"
         image: assets/img/team/Fun.jpg
@@ -117,23 +117,19 @@ team:
           #   icon: fab fa-linkedin-in
           
 contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Tell me about your next project"
+    text: "208.685.9355"
     section: contact
     
 footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"  
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
-        icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
-        icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+      - url: https://community.esri.com/t5/user/viewprofilepage/user-id/70326
+        icon: fas fa-globe-americas
+      - url: https://www.linkedin.com/in/geobilitydoug/
+        icon: fab fa-linkedin-in
+      - url: mailto:doug@geobilityco.com
+        icon: fas fa-at
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}

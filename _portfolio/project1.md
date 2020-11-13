@@ -1,18 +1,18 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Asset Warranty App
+subtitle: Reduce duplicate data entry through integration. Improve efficiency.
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+alt: Asset Warranty App Image
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: Asset Warranty
+  subtitle: Streamline
   thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Multiple assets come in with each project. Asset management specialists were entering the same warranty information on hundreds of assets one at a time. They knew these assets were in GIS so **they had an idea**. I developed a tool that would allow them to view all the assets from a single project by searching for the project ID. They could simply select all or a subset of those and enter the warranty information one time and it would show for each asset in the City of Meridian's Asset Managment System. This project took less than a month to develope and easily **saves hundreds of hours** a year. 
 
-{:.list-inline}
+<!-- {:.list-inline}
 - Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Client: City of Meridian
+- Category: Reduce duplicate data entry through integration. -->
 

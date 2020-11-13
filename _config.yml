@@ -17,7 +17,7 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "https://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/Geobility" # the subpath of your site, e.g. /blog
 
-title      : Agency Jekyll Theme Demo
+title      : Geobility
 email      : doug@geobilityco.com #this is also the email contact forms will go to
 description: "Geobility - Geospatial Software Consulting Services - GIS Integration, Automation, Implementation, Geodatabase Design, Workflow optimization. ESRI ArcGIS Software Consulting. SQL Server Development and Design."
 author     : Doug Green
