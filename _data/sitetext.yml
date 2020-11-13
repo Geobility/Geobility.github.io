@@ -1,6 +1,6 @@
 header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Geobilitate your work.
+    text: Let's begin
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
@@ -9,15 +9,15 @@ services:
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Automation"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+        icon: fas fa-laptop-code #find more at https://fontawesome.com/icons
+      - title: "Integration"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        icon: fas fa-link       
+      - title: "Implementation"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fab fa-cogs
 
 portfolio:
     title: "Portfolio"
