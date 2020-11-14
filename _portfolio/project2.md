@@ -5,8 +5,8 @@ image: https://bmnorthamericaprod.blob.core.windows.net/public/web-images/a01b8a
 alt: Water System
 
 caption:
-  title: Water Utility
-  subtitle: Water Meter Usage
+  title: Water Utility Integration
+  subtitle: Accurate and Efficient
   thumbnail: https://bmnorthamericaprod.blob.core.windows.net/public/web-images/a01b8a22-5362-4b6c-88c9-fb2210e2152b/Water-Utility-Metering.jpg
 ---
 As a new utility billing system was implemented, integrations were completed on addresses, service locations and water meters. This brought enhancements in efficiency, accuracy and geographic analysis:
