@@ -1,18 +1,19 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+title: Utility Billing System Integration
+subtitle: Improved reporting, visualization, modelling and asset replacement planning.
+image: https://bmnorthamericaprod.blob.core.windows.net/public/web-images/a01b8a22-5362-4b6c-88c9-fb2210e2152b/Water-Utility-Metering.jpg
+alt: Water System
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  title: Water Utility
+  subtitle: Water Meter Usage
+  thumbnail: https://bmnorthamericaprod.blob.core.windows.net/public/web-images/a01b8a22-5362-4b6c-88c9-fb2210e2152b/Water-Utility-Metering.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+As a new utility billing system was implemented, integrations were completed on addresses, service locations and water meters. This brought enhancements in efficiency, accuracy and geographic analysis:
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Real-time visualization of meter reading assets on a map for field operations
+- Visualization of meter life cycles for replacement planning
+- Enhanced accuracy and reduced cost of water modelling due to water usage no longer needing to be geolocated based on addresses.
+- Addresses validated against GIS records on service point creation reduces time spent in the field locating assets
 
