@@ -1,18 +1,22 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/04-full.jpg
+title: Address Integration
+subtitle: Validation is just the start.
+image: https://www.esri.com/content/dam/esrisites/en-us/arcgis/location-services/assets/location-services-geocoding-search-mts-search-an-address.png
 alt: 
 
 caption:
-  title: Lines
-  subtitle: Branding
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  title: Address Integration
+  subtitle: Validation and Analysis
+  thumbnail: https://www.esri.com/content/dam/esrisites/en-us/arcgis/location-services/assets/location-services-geocoding-search-mts-search-an-address.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Addresses often serve as a unique ID for assets and and permits at local government agencies. Integrating GIS addressing with billing, permitting and asset management systems ensures accurate location for analysis, visualization, field operations and reporting.
 
-{:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+#### Infor Public Sector Asset management
+  Property addresses populated from GIS source data nightly
+  SQL Stored Procedure automatically assigns nearest address to individual assets the night they are added to the system
+#### TrueBill Utility Billing System
+  All newly created service addresses verified against GIS data source
+#### Accela Automation
+  Addresses imported and maintained from Enterprise Addressing Database near-real-time
+  Permits and other applications available for export to GIS formats due to Address linkage
 

@@ -1,13 +1,13 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/05-full.jpg
+title: GIS Automation
+subtitle: Automation brings consistency, reliability and freedom.
+image: assets/img/portfolio/automation_analysis.gif
 alt: 
 
 caption:
-  title: Southwest
+  title: GIS Automation
   subtitle: Website Design
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  thumbnail: assets/img/portfolio/automation_analysis.gif
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
