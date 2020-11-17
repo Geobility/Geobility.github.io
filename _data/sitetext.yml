@@ -1,5 +1,5 @@
 header:
-    title: Allow me to
+    title: Welcome to Geobility.
     text: GEOBILITATE YOUR TEAM
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
@@ -17,7 +17,7 @@ services:
         icon: fas fa-link       
       - title: "Implementation"
         desc: "Many systems are compatible with GIS or allow for integration. However, these systems don't talk to each other *out of the box*. I combine Geographic Information Systems experience with software development know-how for seamless system linkages worthy of high-fives. This also involves Geodatabase design and build, GIS workflow optimization, ArcGIS Desktop Custom Add-ins, and good old-fashioned troubleshooting."
-        icon: fas fa-cogs
+        icon: fas fa-hard-hat
 
 portfolio:
     title: "Portfolio"
@@ -27,34 +27,34 @@ portfolio:
 
 timeline:
     title: "Approach" 
-    text: "Look for a great experience."
+    text: "Anticipate a great experience."
     section: timeline
     events:
-      - title: "TALK TO ME"
+      - title: "BUILD YOUR IDEAS"
         year: "You're the expert."
-        desc: "I've found that customers know their job well and have some of the best ideas of how it could be done better. Often, that involves better tools. **I provide digital tools, custom crafted around your ideas.** So we start with some good questions and intent listening."
-        image: assets/img/geobility_light_bulb.png
+        desc: "I've found that you know your job well and have some of the best ideas of how it could be done better. Often, that involves better tools.<br>**I provide digital tools, custom crafted around your ideas.** So we start with some good questions and intent listening."
+        image: fas fa-lightbulb
         alt: 
         align: left
-      - title: "HOW DO YOU LIKE YOUR STEAK?"
-        year: "It's your preference."
-        desc: "Everyone has their preference of how they'd like things done. There's more than one way to... well, I don't know anyone who skins cats. I like to deliver something that improves your ability to do your work using skills you're most familiar and comfortable with. A **variety of language and platform options** allow me to deliver tools that enable you to maintain a feeling of control over the tools I provide. When a server is upgraded or a dataset gets renamed, you'll be able to keep things running with minimal training."
-        image: https://twolovesstudio.com/wp-content/uploads/2015/01/beautiful-raw-meat-photography-two-loves-studio-13.jpg
+      - title: "HOUSE RULES APPLY"
+        year: "Choose your flavor."
+        desc: "There's more than one way to... well, I don't know anyone who skins cats. However, I like to deliver tools that improve your ability to do your work using skills you're most familiar and comfortable with. A **variety of language and platform options** enable you to maintain a feeling of control. As upgrades and changes occur, you'll be able to keep things running with minimal training."
+        image: fas fa-thumbs-up
         alt: 
         align: right
-      - title: "WORK TOGETHER"
+      - title: "COLLABORATION"
         year: "Be part of the process."
-        desc: "I'm not one to gather all the requirements, go hide in my bat cave and return with a mysterious black box. I've seen that as I start to develop tools, customers start to see what's possible, leading to innovations to the way you work and the final product. Idea sharing and continued **brainstorming along the way** has always led to something better than we originally imagined."
-        image: assets/img/timeline/teamwork.jpg
+        desc: "I've seen that, as I start to develop tools, customers start to see what's possible, leading to innovations in the way they work and improvements on the original idea. Idea sharing and continued **brainstorming along the way** has always led to something **better than we originally imagined.**"
+        image: fas fa-hands-helping
         alt: image alt text
         #align: #default is left       
       - title: "GEOBILITATION"
-        year: "I'll help you launch."
-        desc: "Even the best tools need a little training. I'd like to make sure your team know's the tool they've received and has the documentation they need. When I hand over the keys, you'll be ready for **lift off!**"
-        image: assets/img/timeline/4.jpg
+        year: "Learn how to fly."
+        desc: "Even the best tools need a little training. I'd like to make sure your team knows how to use the tools I deliver and has the documentation they need. When I hand over the keys, you'll be ready for **lift off!**"
+        image: fas fa-plane-departure
         alt: 
         align: right
-    end: "LET ME <br> BE ON YOUR <br> TEAM!"
+    end: "Let me<br>be on your<br>team!"
 
 about:
     title: "Approach"
@@ -81,8 +81,8 @@ clients:
     
 team:
     title: "A BIT ABOUT ME"
-    text: "I'm a geeky husband and dad who loves telling dad jokes, recreating with my family and, playing board games."
-    subtext: I also love to help people accomplish their work in a more efficient way so they can focus on the most important things.
+    text: "I'm a husband and father of three. I love telling dad jokes, recreating with my family and, playing table-top games. I really like diving in and learning new things. "
+    subtext: I'm humbled by my the people all around me who lift and build others up. I'm most inspired by my greatest <a href="https://jesuschrist.churchofjesuschrist.org/who-is-jesus-christ?lang=eng" target="_blank">mentor and friend</a>.
     section: team
     people:
       - name: ""
@@ -99,12 +99,15 @@ team:
         role: "Geospatial Software Consultant"
         image: assets/img/team/Doug.jpg
         social:
-          # - url: https://community.esri.com/t5/user/viewprofilepage/user-id/70326
-          #   icon: fas fa-globe-americas
-          # - url: https://www.linkedin.com/in/geobilitydoug/
-          #   icon: fab fa-linkedin-in
-          # - url: mailto:doug@geobilityco.com
-          #   icon: fas fa-at
+          - url: https://community.esri.com/t5/user/viewprofilepage/user-id/70326
+            icon: fas fa-globe-americas
+            alt: ESRI GeoNet
+          - url: https://www.linkedin.com/in/geobilitydoug/
+            icon: fab fa-linkedin-in
+            alt: LinkedIn
+          - url: https://stackoverflow.com/users/2250424/greengeo
+            icon: fab fa-stack-overflow
+            alt: Stack Overflow
       - name: ""
         role: "Fun"
         image: assets/img/team/Fun.jpg
