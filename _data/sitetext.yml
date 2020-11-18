@@ -1,6 +1,6 @@
 header:
     title: Welcome to Geobility.
-    text: GEOBILITATE YOUR TEAM
+    text: Ain't that Spatial
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
@@ -10,13 +10,13 @@ services:
     section: services
     list:
       - title: "Automation"
-        desc: "Spend your time on things that require you to use your judgement and thinking power. Leave the redundant, repetetive tasks to the computer. Perform routine analysis for planning, building, public works utilities, dashboarding, and reporting. Extract, transform, import and export data to and from your business formats."
+        desc: "Put your time into the tasks that leverage your good judgement and intuition. Leave the redundant, repetetive tasks to the computer. Perform routine analysis for planning, building, public works utilities, dashboarding, and reporting. Extract, transform, import and export data to and from your business formats."
         icon: fas fa-laptop-code #find more at https://fontawesome.com/icons
       - title: "Integration"
-        desc: "Organizations frequently add the same information into more than one system to enable reporting and dashboarding. Integration eliminates the need for duplicate and repetetive data entry. It also enables more complete analysis, reporting and budgeting, Asset management operations, dashboarding and visualization. Additionally, it allows real-time geographic visualization of 3rd-party system information."
+        desc: "Stop adding the same information into more than one system. Integration eliminates the need for duplicate and repetetive data entry and allows systems to *talk* to each other. Many systems are compatible with GIS or allow for integration. However, these systems don't talk to each other *out of the box*. Tying your systems together through GIS integrations opens up possibilities like real-time geographic visualization of 3rd-party system information, live dashboards and much more."
         icon: fas fa-link       
       - title: "Implementation"
-        desc: "Many systems are compatible with GIS or allow for integration. However, these systems don't talk to each other *out of the box*. I combine Geographic Information Systems experience with software development know-how for seamless system linkages worthy of high-fives. This also involves Geodatabase design and build, GIS workflow optimization, ArcGIS Desktop Custom Add-ins, and good old-fashioned troubleshooting."
+        desc: "I combine Geographic Information Systems experience with software development know-how to identify how to get from point A to point B with your Geospatial software plan. This also involves Geodatabase design, data migration and transformation, GIS workflow optimization, ArcGIS Desktop Custom Add-ins, and good old-fashioned troubleshooting."
         icon: fas fa-hard-hat
 
 portfolio:
@@ -50,7 +50,7 @@ timeline:
         #align: #default is left       
       - title: "GEOBILITATION"
         year: "Learn how to fly."
-        desc: "Even the best tools need a little training. I'd like to make sure your team knows how to use the tools I deliver and has the documentation they need. When I hand over the keys, you'll be ready for **lift off!**"
+        desc: "Even the best tools need a little training. I'd like to make sure your team knows how to use the tools I deliver and has the documentation they need. When I hand over the keys, you'll be ready for **take off!**"
         image: fas fa-plane-departure
         alt: 
         align: right
@@ -82,7 +82,7 @@ clients:
 team:
     title: "A BIT ABOUT ME"
     text: "I'm a husband and father of three. I love telling dad jokes, recreating with my family and, playing table-top games. I really like diving in and learning new things. "
-    subtext: I'm humbled by my the people all around me who lift and build others up. I'm most inspired by my greatest <a href="https://jesuschrist.churchofjesuschrist.org/who-is-jesus-christ?lang=eng" target="_blank">mentor and friend</a>.
+    subtext: I'm humbled by the people all around me who lift and build others up. I'm most inspired by my greatest <a href="https://jesuschrist.churchofjesuschrist.org/who-is-jesus-christ?lang=eng" target="_blank">mentor and friend</a>.
     section: team
     people:
       - name: ""
