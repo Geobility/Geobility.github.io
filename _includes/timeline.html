@@ -32,9 +32,9 @@
               <!-- <div class="timeline-image">
                 <img class="rounded-circle img-fluid" src="{{ event.image }}" alt="{{ event.alt | default: ""}}">
               </div> -->
-              <span class="timeline-image" style="text-align:middle">
-                <i class="{{ event.image | default: "fas fa-shopping-cart" }} fa-stack-1x fa-6x"></i>
-              </span>
+              <div class="timeline-image">
+                <h4><i class="{{ event.image | default: fas fa-rocket }} fa-4x"></i></h4>
+              </div>
               <div class="timeline-panel">
                 <div class="timeline-heading">
                   <h4>{{ event.year | markdownify }}</h4>
