@@ -1,6 +1,6 @@
 header:
-    title: Welcome to Geobility.
-    text: Ain't that Spatial
+    title: Make your workflows
+    text: AUTOMATIC
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
