@@ -7,7 +7,7 @@ alt:
 caption:
   title: Address Integration
   subtitle: Validation and Analysis
-  thumbnail: https://www.esri.com/content/dam/esrisites/en-us/arcgis/location-services/assets/location-services-geocoding-search-mts-search-an-address.png
+  thumbnail: assets/img/portfolio/addr_integr_thumb.png
 ---
 Addresses often serve as a unique ID for assets and and permits at local government agencies. Integrating GIS addressing with billing, permitting and asset management systems ensures accurate location for analysis, visualization, field operations and reporting.
 
