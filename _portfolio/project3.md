@@ -1,6 +1,6 @@
 ---
 title: Boise Trails Challenge
-subtitle: Hey map guy, do you think you can...?
+subtitle: Hey GPS mapping guy, do you think you can...?
 image: assets/img/portfolio/boise_trails_challenge_snip.PNG
 alt: 
 
@@ -9,5 +9,5 @@ caption:
   subtitle: Accepted
   thumbnail: assets/img/portfolio/boise_trails_challenge_snip.PNG
 ---
-In 2017, [a good friend](https://boisetrailschallenge.com/about) asked me if I knew how to set up a website where anyone who wanted to ride all the trails in the foothills could submit their GPS file and have it mark off their progress. I couldn't have accomplished it all myself. But with the help of a friend web developer and a great team, we were able to create a local trail community event called the [Boise Trails Challenge](https://boisetrailschallenge.com/) that has been a real joy to be a part of. Integrations with Strava and some SQL Server Geometry *magic* came together to host over 1,100 participants giving it all they had to watch the trails turn green on their map as they completed them.
+In 2017, a good friend asked me if I knew how to set up a website where anyone who wanted to ride all the trails in the foothills could submit their GPS file and have it mark off their progress. I couldn't have accomplished it all myself. But with the help of a web developer friend and a great team, we were able to create a local trail community event called the <a href="https://boisetrailschallenge.com/" target="_blank">Boise Trails Challenge</a> which has been a real joy to be a part of. Integrations with Strava and some SQL Server Geometry *magic* came together to host over 1,100 participants in 2020 giving it all they had to watch the trails turn green as they passed them off.
 

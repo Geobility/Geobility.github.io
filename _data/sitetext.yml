@@ -10,13 +10,13 @@ services:
     section: services
     list:
       - title: "Automation"
-        desc: "Put your time into the tasks that leverage your good judgement and intuition. Leave the redundant, repetetive tasks to the computer. Perform routine analysis for planning, building, public works utilities, dashboarding, and reporting. Extract, transform, import and export data to and from your business formats."
+        desc: "Put your time into the tasks that leverage your full thinking power and intuition—automate the redundant and repetitive. Perform routine analysis for planning and land development, public works utilities, dashboarding, and reporting. Extract, transform, and load data to and from other agencies and organizations on a predefined schedule—even when you're not at work."
         icon: fas fa-laptop-code #find more at https://fontawesome.com/icons
       - title: "Integration"
-        desc: "Stop adding the same information into more than one system. Integration eliminates the need for duplicate and repetetive data entry and allows systems to *talk* to each other. Many systems are compatible with GIS or allow for integration. However, these systems don't talk to each other *out of the box*. Tying your systems together through GIS integrations opens up possibilities like real-time geographic visualization of 3rd-party system information, live dashboards and much more."
+        desc: "Stop adding the same information into more than one system. Integration eliminates the need for duplicate and repetetive data entry and allows systems to *talk* to each other. Systems that talk, provide more convenient, intuitive customer interactions and let your staff focus on the customers. Integrating business applications opens up possibilities like real-time geographic visualization of your business data, live dashboards and much more."
         icon: fas fa-link       
       - title: "Implementation"
-        desc: "I combine Geographic Information Systems experience with software development know-how to identify how to get from point A to point B with your Geospatial software plan. This also involves Geodatabase design, data migration and transformation, GIS workflow optimization, ArcGIS Desktop Custom Add-ins, and good old-fashioned troubleshooting."
+        desc: "Many systems are compatible with GIS or allow for integration. However, these systems don't talk to each other *out of the box*. I combine Geographic Information Systems experience with software development know-how to identify how to get from point A to point B. This also involves Geodatabase design, database ETL, GIS workflow optimization, ArcGIS Desktop Custom Add-ins, and good old-fashioned troubleshooting."
         icon: fas fa-hard-hat
 
 portfolio:
@@ -32,7 +32,7 @@ timeline:
     events:
       - title: "BUILD YOUR IDEAS"
         year: "You're the expert."
-        desc: "I've found that you know your job well and have some of the best ideas of how it could be done better. Often, that involves better tools.<br>**I provide digital tools, custom crafted around your ideas.** So we start with some good questions and intent listening."
+        desc: "You're the one who knows best when it comes to your job. This means you also have some of the best ideas of how it could be done better. Often, that involves better tools. **I provide digital tools, custom crafted around your ideas.** So we start with some good questions and intent listening."
         image: fas fa-lightbulb
         alt: 
         align: left
@@ -42,7 +42,7 @@ timeline:
         image: fas fa-thumbs-up
         alt: 
         align: right
-      - title: "HEADS TOGETHER"
+      - title: "PART OF THE PROCESS"
         year: "Be involved."
         desc: "I've seen that, as I start to develop tools, customers start to see what's possible, leading to innovations in the way they work and improvements on the original idea. Idea sharing and continued **brainstorming along the way** has always led to something **better than we originally imagined.**"
         image: fas fa-hands-helping
@@ -81,7 +81,7 @@ clients:
     
 team:
     title: "A BIT ABOUT ME"
-    text: "I'm a husband and father of three. I love telling dad jokes, recreating with my family and, playing table-top games. I really like diving in and learning new things. "
+    text: "I'm a husband and father of three. I love telling dad jokes, recreating with my family and, playing board games. I thrive on diving in and learning new things. "
     subtext: I'm humbled by the people all around me who lift and build others up. I'm most inspired by my greatest <a href="https://jesuschrist.churchofjesuschrist.org/who-is-jesus-christ?lang=eng" target="_blank">mentor and friend</a>.
     section: team
     people:
