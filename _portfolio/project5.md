@@ -1,13 +1,13 @@
 ---
 title: GIS Automation
-subtitle: Automation brings consistency, reliability and freedom.
+subtitle: Automation brings consistency, efficiency and freedom.
 image: assets/img/portfolio/automation_analysis.gif
 alt: 
 
 caption:
   title: GIS Automation
-  subtitle: Website Design
-  thumbnail: assets/img/portfolio/automation_analysis.gif
+  subtitle: Efficient—Consistent—Freedom
+  thumbnail: assets/img/portfolio/GIS_automation_thumb.png
 ---
 The City of Meridian is one of those hardest-hit by the rapid population growth that began around 2006. With a firm strategic goal of a balanced budget and never operating in the red, they did not want to meet the increased demand by hiring more staff that would eventually have to be let go when the population growth levelled off. This required a great deal of innovation, looking to improve processes to gain efficiency and run lean. Automation has allowed GIS staff to accomplish more with only a couple additions to the GIS staff—only two positions added since 2007. The city consumes GIS data from Ada County, COMPASS, Canyon County and the City of Boise and shares their data with those and others. Hands-on workflows could accomplish this work but were prone to inconsistencies in the data and the schedule (don't you want a vacation just reading this?). Additionally, documentation was slim on each individual process, making continuity very difficult. In-line documentation within scrips provides a step-by-step guide of what the process is doing in case someone needed to do it by hand. Through python scripting, MS SQL Server Programming, and C# Console apps, other agencies can depend on data being delivered on a consistent schedule and in a standard format. This, in turn, allows other agencies to automate on their end as well, providing efficiencies throughout the valley.
 

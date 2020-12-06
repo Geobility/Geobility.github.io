@@ -1,7 +1,7 @@
 ---
 title: Address Integration
 subtitle: Validation is just the start.
-image: https://www.esri.com/content/dam/esrisites/en-us/arcgis/location-services/assets/location-services-geocoding-search-mts-search-an-address.png
+image: assets/img/portfolio/addr_integr_full.png
 alt: 
 
 caption:
