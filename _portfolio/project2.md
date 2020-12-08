@@ -5,7 +5,7 @@ image: assets/img/portfolio/water_utility_integration_full.png
 alt: Water System
 
 caption:
-  title: Water Utilities
+  title: Public Utilities
   subtitle: Accurate and Efficient
   thumbnail: assets/img/portfolio/water_utility_integration_thumb.png
 ---
