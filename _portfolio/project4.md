@@ -1,22 +1,13 @@
 ---
-title: Address Integration
-subtitle: Validation is just the start.
-image: assets/img/portfolio/addr_integr_full.png
+title: Automatic Vehicle Location
+subtitle: See what's happening with your fleet.
+image: assets/img/portfolio/avl.gif
 alt: 
 
 caption:
-  title: Address Integration
-  subtitle: Validation and Analysis
-  thumbnail: assets/img/portfolio/addr_integr_thumb.png
+  title: Vehicle Location
+  subtitle: Eyes on Your Fleet
+  thumbnail: assets/img/portfolio/avl_thumb.png
 ---
-Addresses often serve as a unique ID for assets and and permits at local government agencies. Integrating GIS addressing with billing, permitting and asset management systems ensures accurate location for analysis, visualization, field operations and reporting.
-
-#### Infor Public Sector Asset management
-  Property addresses populated from GIS source data nightly
-  SQL Stored Procedure automatically assigns nearest address to individual assets the night they are added to the system
-#### TrueBill Utility Billing System
-  All newly created service addresses verified against GIS data source
-#### Accela Automation
-  Addresses imported and maintained from Enterprise Addressing Database near-real-time
-  Permits and other applications available for export to GIS formats due to Address linkage
+Fleet tracking has become quite popular. Managers not only have a view of where their fleet and staff are for operational purposes, but they also have verification when complaints come in. Being able to review the recent history of a vehicles location not only protects an organization but also provides reassurance for those operating the vehicles when erroneous accusations and accidents occur. There are several Automatic Vehicle Location (AVL) service providers out there offering expansive feature sets. For some agencies, all the bells and whistles get in the way of just having that one bell that would completely meet their need. Custom AVL solutions provided the specific functionality the City of Meridian required without the pricetag or complexity of the off-the-shelf options. Due to the focus on what was really needed, these systems were able to provide vehicle locations every 2 seconds for Police, Fire, Public Works and Building Inspections. History can be replayed for up to 2 months.
 

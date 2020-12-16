@@ -1,13 +1,18 @@
 ---
-title: Automatic Vehicle Location
-subtitle: See what's happening with your fleet.
-image: assets/img/portfolio/avl.gif
-alt: 
+title: Asset Warranty App
+subtitle: Reduce duplicate data entry through integration. Improve efficiency.
+image: assets/img/portfolio/warranty_app_full.png
+alt: Asset Warranty App Image
 
 caption:
-  title: Vehicle Location
-  subtitle: Eyes on Your Fleet
-  thumbnail: assets/img/portfolio/avl_thumb.png
+  title: Asset Management
+  subtitle: Streamlined
+  thumbnail: assets/img/portfolio/warranty_app_thumb.png
 ---
-Fleet tracking has become quite popular. Managers not only have a view of where their fleet and staff are for operational purposes, but they also have verification when complaints come in. Being able to review the recent history of a vehicles location not only protects an organization but also provides reassurance for those operating the vehicles when erroneous accusations and accidents occur. There are several Automatic Vehicle Location (AVL) service providers out there offering expansive feature sets. For some agencies, all the bells and whistles get in the way of just having that one bell that would completely meet their need. Custom AVL solutions provided the specific functionality the City of Meridian required without the pricetag or complexity of the off-the-shelf options. Due to the focus on what was really needed, these systems were able to provide vehicle locations every 2 seconds for Police, Fire, Public Works and Building Inspections. History can be replayed for up to 2 months.
+Each valve, manhole, mainline and hydrant comes with some sort of warranty that is tracked for asset management purposes. When multiple assets are installed at the same time, asset management specialists were entering the same warranty information on hundreds of assets *one at a time*. They knew these assets were in GIS so **they had an idea**. I developed a tool around that idea that would allow them to view all the assets from a single project by searching for the project ID. They could simply select all or a subset of those and enter the warranty information _once_ and it would show for each asset in the City of Meridian's Asset Managment System. This project took less than a month to develop and easily **saves hundreds of hours** per year. 
+
+<!-- {:.list-inline}
+- Date: January 2017
+- Client: City of Meridian
+- Category: Reduce duplicate data entry through integration. -->
 

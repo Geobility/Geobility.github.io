@@ -23,7 +23,7 @@ description: "Geobility - Geospatial Software Consulting Services - GIS Integrat
 author     : Doug Green
 logo:     #optional, defaults to site title
   path: assets\img\GeobilityTextLogoVectorExport.png
-  height: 70 #height in px, defaults to 52px
+  height: 80 #height in px, defaults to 52px
 
 analytics:
   google: #Google Analytics tracking code here
