@@ -14,5 +14,5 @@ ArcGIS Enterprise Portal and Server Installation and Administration
 Geospatial Data Migration
 Workflow/Dataflow Process Design and Improvement
 
-<a href="#contact" target="_blank">Want to build up your GIS environment?</a>
+<a href="#contact">Want to build up your GIS environment?</a>
 

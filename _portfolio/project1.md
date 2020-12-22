@@ -16,4 +16,4 @@ Extraction of Utility Billing water usage for modelling
 Capital Project planning software integration  
 Custom Windows applications for verified asset import and data entry
 
-<a href="#contact" target="_blank">Want to talk about your next Public Works GIS project?</a>
+<a href="#contact">Want to talk about your next Public Works GIS project?</a>

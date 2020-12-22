@@ -15,5 +15,5 @@ Automated Analysis and Data Exchange
 Integration of application and permitting database with GIS  
 Geospatial logic workflows in permitting system  
 
-<a href="#contact" target="_blank">Want to see where where your growth is?</a>
+<a href="#contact">Want to see where where your growth is?</a>
 

@@ -22,4 +22,4 @@ With multiple Enterprise Geodatabase environments and workflows that depend on d
 ### Microsoft SQL-Server ETL
 Some Database applications contain information that is not fully comprehended when viewed in charts and tables. When this information can be linked to location and viewed spatially, the data begins to speak to us more clearly. SQL Views and Stored Procedures have enabled the City of Meridian's databases to speak to users through regular data extraction, transformation and loading into mapping databases and applications. These integrations enhance the ability to visualize and analyze all varieties of the City's operational information.
 
-<a href="#contact" target="_blank">Want to make your workflows automatic?</a>
+<a href="#contact">Want to make your workflows automatic?</a>
