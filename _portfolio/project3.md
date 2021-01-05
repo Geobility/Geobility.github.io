@@ -1,5 +1,5 @@
 ---
-title: GIS Design and Management
+title: GIS Design and Admin
 subtitle: 
 image: assets/img/portfolio/architecture_full.png
 alt: 

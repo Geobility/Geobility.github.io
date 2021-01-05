@@ -1,8 +1,8 @@
 ---
-title: Planning and Land Development
+title: Building and Planning
 subtitle: Reduce duplicate data entry through integration. Improve efficiency.
 image: assets/img/portfolio/warranty_app_full.png
-alt: Planning and Land Development
+alt: Building and Planning
 
 caption:
   title: 
