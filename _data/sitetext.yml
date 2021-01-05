@@ -23,6 +23,7 @@ portfolio:
     title: "Portfolio"
     text: "What have I done?! ;)"
     section: portfolio
+    closebutton: Let's Talk
     
 
 timeline:
@@ -82,7 +83,7 @@ clients:
 team:
     title: "A BIT ABOUT ME"
     text: "I'm a husband and father of three. I love telling dad jokes, being with my family and, playing board games. I thrive on inventing and learning."
-    subtext: I'm humbled by the people all around me who lift and build others up. I'm most inspired by my greatest <a href="https://jesuschrist.churchofjesuschrist.org/who-is-jesus-christ?lang=eng" target="_blank">mentor and friend</a>.
+    subtext: 
     section: team
     people:
       - name: ""
@@ -131,8 +132,11 @@ footer:
         icon: fas fa-globe-americas
       - url: https://www.linkedin.com/in/geobilitydoug/
         icon: fab fa-linkedin-in
-      - url: mailto:doug@geobilityco.com
-        icon: fas fa-at
+      - url: https://stackoverflow.com/users/2250424/greengeo
+        icon: fab fa-stack-overflow
+
+
+
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}

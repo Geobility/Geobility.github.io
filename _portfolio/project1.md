@@ -1,7 +1,7 @@
 ---
 title: Public Works Utilities
 subtitle: Improved reporting, visualization, modelling and asset replacement planning.
-image: assets/img/portfolio/water_utility_integration_full.png
+image: assets/img/portfolio/public_works_full.png
 alt: Water System
 
 caption:
@@ -16,4 +16,4 @@ Extraction of Utility Billing water usage for modelling
 Capital Project planning software integration  
 Custom Windows applications for verified asset import and data entry
 
-<a href="#contact">Want to talk about your next Public Works GIS project?</a>
+Want to integrate with your next Public Works GIS project?

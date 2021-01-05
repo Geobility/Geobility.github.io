@@ -1,7 +1,7 @@
 ---
 title: GIS Design and Management
 subtitle: 
-image: assets/img/portfolio/addr_integr_full.png
+image: assets/img/portfolio/architecture_full.png
 alt: 
 
 caption:
@@ -14,5 +14,5 @@ ArcGIS Enterprise Portal and Server Installation and Administration
 Geospatial Data Migration
 Workflow/Dataflow Process Design and Improvement
 
-<a href="#contact">Want to build up your GIS environment?</a>
+Want to build up your GIS environment?
 

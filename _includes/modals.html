@@ -1,0 +1,38 @@
+<!-- Portfolio Modals -->
+{% for project in site.portfolio %}
+  <div class="portfolio-modal modal fade" id="p{{ forloop.index }}" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="close-modal" data-dismiss="modal">
+          <div class="lr">
+            <div class="rl"></div>
+          </div>
+        </div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 mx-auto">
+              <div class="modal-body">
+                <!-- Project Details Go Here -->
+                <h2 class="text-uppercase">{{ project.title }}</h2>
+                <p class="item-intro text-muted">{{ project.subtitle }}</p>
+                <img class="img-fluid d-block mx-auto" src="{{ project.image }}" alt="{{ project.alt }}">
+                <p>{{ project.content }}</p>
+                <!-- This probably doesn't belong here but it's how I was able to overide the default behavior
+                    of this button so it would close the modal window AND scroll down to the contact section. -->
+                <button class="btn btn-primary" type="button" onclick="(function(){
+                        $('#p{{ forloop.index }}').modal('hide');
+                        $('html, body').animate({
+                            scrollTop: $('#contact').offset().top
+                        }, 1000);
+                        return false;
+                    })(); return false;">{{ site.data.sitetext.portfolio.closebutton | default: "Close Project" }}</button>
+                <!-- <a class="btn btn-primary js-scroll-trigger" data-dismiss="modal" href="#contact">{{ site.data.sitetext.portfolio.closebutton | default: "Close Project" }}</a> -->
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endfor %}
+<!-- End Portfolio Modals -->
