@@ -7,7 +7,7 @@ alt: Water System
 caption:
   title: 
   subtitle: Accurate and Efficient
-  thumbnail: assets/img/portfolio/water_utility_integration_thumb.png
+  thumbnail: assets/img/portfolio/public_works_utilities_thumb.jpg
 ---
 
 Asset Management GIS integration  

@@ -7,7 +7,7 @@ alt:
 caption:
   title: 
   subtitle: Foundations for GIS
-  thumbnail: assets/img/portfolio/addr_integr_thumb.png
+  thumbnail: assets/img/portfolio/gdb_design_admin_thumb.jpg
 ---
 Enterprise Geodatabase Design, Implementation, and Maintenance in SQL Server
 ArcGIS Enterprise Portal and Server Installation and Administration

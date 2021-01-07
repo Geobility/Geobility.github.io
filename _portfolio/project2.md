@@ -7,7 +7,7 @@ alt:
 caption:
   title: 
   subtitle: Hands-free
-  thumbnail: assets/img/portfolio/GIS_automation_thumb.png
+  thumbnail: assets/img/portfolio/auto_data_analysis_thumb.jpg
 ---
 ### Ada County Address Compilation
 Addresses are added or changed daily. Thanks to automation, they are also compiled daily. The Cities of Meridian and Boise as well as others managed by Ada County Assessor's office pool their address into one <a href="https://adacounty.id.gov/assessor/land-records/ada-county-assessor-data/" target="_blank">compiled set</a> to provide timely location information for Emergency 911 Response as well as a host of other government operations.
