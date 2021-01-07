@@ -21,7 +21,7 @@ services:
 
 portfolio:
     title: "Portfolio"
-    text: "What have I done?! ;)"
+    text: ""
     section: portfolio
     closebutton: Let's Talk
     
