@@ -1,7 +1,7 @@
 header:
     title: Make your workflows
     text: AUTOMATIC
-    button: Tell Me More
+    button: LEARN HOW
     buttonlink: "#timeline" # "#{section}" or "URL/page link"
 
 services:

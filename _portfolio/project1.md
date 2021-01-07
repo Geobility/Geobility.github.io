@@ -2,7 +2,7 @@
 title: Public Works Utilities
 subtitle: Improved reporting, visualization, modelling and asset replacement planning.
 image: assets/img/portfolio/public_works_full.png
-alt: Water System
+alt: Public Works Graphic
 
 caption:
   title: 
@@ -10,6 +10,7 @@ caption:
   thumbnail: assets/img/portfolio/public_works_utilities_thumb.jpg
 ---
 
+The City of Meridian utilizes:  
 Asset Management GIS integration  
 Automated assignment of nearest address  
 Extraction of Utility Billing water usage for modelling  
