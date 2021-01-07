@@ -10,9 +10,9 @@ caption:
   thumbnail: assets/img/portfolio/public_works_utilities_thumb.jpg
 ---
 
-The City of Meridian utilizes:  
+The City of Meridian was able to save money, reduce repetetive work, improve warranty tracking, and dial in asset replacement planning through:  
 Asset Management GIS integration  
-Automated assignment of nearest address  
+Automated assignment of nearest asset addresses  
 Extraction of Utility Billing water usage for modelling  
 Capital Project planning software integration  
 Custom Windows applications for verified asset import and data entry
