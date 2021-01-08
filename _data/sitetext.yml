@@ -136,8 +136,6 @@ footer:
         icon: fab fa-stack-overflow
 
 
-analytics:
-    google: G-EQQKV7H991
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}

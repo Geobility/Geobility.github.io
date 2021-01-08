@@ -26,10 +26,11 @@ logo:     #optional, defaults to site title
   height: 80 #height in px, defaults to 52px
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: G-EQQKV7H991
 
 collections:
   portfolio:
+
 
 markdown: kramdown
 
