@@ -1,7 +1,7 @@
 ---
 title: Boise Trails Challenge
-subtitle: Hey GPS mapping guy, do you think you can...?
-image: assets/img/portfolio/boise_trails_challenge_snip.PNG
+subtitle: Outdoor Recreation Event
+image: assets/img/portfolio/boise_trails_challenge_full.gif
 alt: 
 
 caption:
