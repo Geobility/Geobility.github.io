@@ -14,7 +14,7 @@
 #theme: jekyll-agency
 remote_theme: raviriley/agency-jekyll-theme
 
-url    : "https://localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "{{ site.baseurl }}" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/Geobility" # the subpath of your site, e.g. /blog
 
 title      : Geobility
@@ -40,3 +40,4 @@ formspree_form_path: "f/mnqogagq"
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
