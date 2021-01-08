@@ -45,7 +45,7 @@ timeline:
         align: right
       - title: "PART OF THE PROCESS"
         year: "Be involved."
-        desc: "I've seen that, as I start to develop tools, customers start to see what's possible. This brings innovation to the way they work -- fine tuning the tools they help create.<br><br>Idea sharing and continued **brainstorming along the way** produces something **better than we imagined.**"
+        desc: "I've seen that as I start to develop tools, customers start to see what's possible. This brings innovation to the way they work -- fine tuning the tools they help create.<br><br>Idea sharing and continued **brainstorming along the way** produces something **better than we imagined.**"
         image: fas fa-hands-helping
         alt: image alt text
         #align: #default is left       
