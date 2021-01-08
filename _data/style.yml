@@ -7,6 +7,6 @@ highlight: "#48B274" # Green
 
 #Image Customization
 # header-image: "../img/smooth_header_animation.gif"
-header-image: "../img/BackgroundTopo1.png"
+header-image: "../img/BackgroundTopo2.png"
 # contact-image: "../img/smooth_header_animation.gif"
-contact-image: "../img/BackgroundTopo1.png"
+contact-image: "../img/BackgroundTopo2.png"
