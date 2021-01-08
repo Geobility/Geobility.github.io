@@ -10,7 +10,7 @@ caption:
   thumbnail: assets/img/portfolio/auto_data_analysis_thumb.jpg
 ---
 ### Ada County Address Compilation
-Addresses are added or changed daily. Thanks to automation, they are also compiled daily. The City of Meridian contributes to one <a href="https://adacounty.id.gov/assessor/land-records/ada-county-assessor-data/" target="_blank">compiled set</a> of address location data with the City of Boise and others managed by Ada County Assessor's office. This data allows the agencies to provide timely location information for Emergency 911 Response as well many other government operations.
+Addresses are added or changed daily. Thanks to automation, they are also compiled daily. The City of Meridian contributes to one <a href="https://adacounty.id.gov/assessor/land-records/ada-county-assessor-data/" target="_blank">compiled set</a> of address location data, with the City of Boise and others managed by Ada County Assessor's office. This data allows the agencies to provide timely location information for Emergency 911 Response as well many other government operations.
 
 
 ### Digline Utility Location Export <img src="assets/img/portfolio/digline_logo.jpg" alt="Digline Logo" height="40" style="vertical-align:text-top"/>  
@@ -20,6 +20,6 @@ Digline provides underground utility location services for the State of Idaho. S
 With multiple Enterprise Geodatabase environments and workflows that depend on data being packaged for use in the field, much of the GIS work at the City of Meridian is done after-hours through automated Python scripts. Through enhanced error checking, many critical scripts send email alerts or create helpdesk tickets when something goes wrong. Detailed logging also shortens the troubleshooting time. These scripts ensure data flows execute consistently and on a predictable schedule.
 
 ### Microsoft SQL-Server ETL
-Some Database applications contain information that is not fully comprehended when viewed in charts and tables. When this information can be linked to location and viewed spatially, the data begins to speak to us more clearly. SQL Views and Stored Procedures have enabled the City of Meridian's databases to speak to users through regular data extraction, transformation and loading into mapping databases and applications. These integrations enhance the ability to visualize and analyze all varieties of the City's operational information.
+Some Database applications contain information that is not fully comprehended when viewed in charts and tables. When this information can be linked to location and viewed spatially, the data begins to speak to us more clearly. SQL Views and Stored Procedures have enabled the City of Meridian's databases to speak to users through regular data extraction, transformation, and loading into mapping databases and applications. These integrations enhance the ability to visualize and analyze all varieties of the City's operational information.
 
 Want to make your workflows automatic?

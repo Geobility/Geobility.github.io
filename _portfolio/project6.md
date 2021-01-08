@@ -10,10 +10,11 @@ caption:
   thumbnail: assets/img/portfolio/planning_land_dev_thumb.jpg
 ---
 Planning and Land Development is a very map-centric function. The City of Meridian has kept up with rapid growth rates with the help of:
-
-Automated Analysis and Data Exchange  
-Integration of application and permitting database with GIS  
-Geospatial logic workflows in permitting system  
+<ul style="text-align: center; list-style-position: inside;">
+  <li>Automated Analysis and Data Exchange</li>
+  <li>Integration of application and permitting database with GIS</li>
+  <li>Geospatial logic workflows in permitting system</li>
+</ul>
 
 Want to enable spatial logic on your permitting system?
 

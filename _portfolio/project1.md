@@ -11,10 +11,14 @@ caption:
 ---
 
 The City of Meridian was able to save money, reduce repetetive work, improve warranty tracking, and dial in asset replacement planning through:  
-Asset Management GIS integration  
-Automated assignment of nearest asset addresses  
-Extraction of Utility Billing water usage for modelling  
-Capital Project planning software integration  
-Custom Windows applications for verified asset import and data entry
+<p>
+  <ul style="text-align: center; list-style-position: inside;">
+    <li>Asset Management GIS integration</li>
+    <li>Automated assignment of nearest asset addresses</li>
+    <li>Extraction of Utility Billing water usage for modelling</li>
+    <li>Capital Project planning software integration</li>
+    <li>Custom Windows applications for verified asset import and data entry</li>
+  </ul>
+</p>
 
 Want to integrate with your next Public Works GIS project?

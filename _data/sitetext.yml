@@ -13,7 +13,7 @@ services:
         desc: "Automating redundant and repetitive tasks allows you to put your time and effort into those that leverage your full thinking power and intuition. Perform routine analysis for planning and land development, public works utilities, dashboarding, and reporting. Extract, transform, and load data to and from other agencies and organizations on a predefined schedule—even when you're not at work."
         icon: fas fa-laptop-code #find more at https://fontawesome.com/icons
       - title: "Integration"
-        desc: "Integration allows systems to *talk* to each other. Systems that talk, provide more convenient, intuitive customer interactions and let your staff focus on the customers. Integrating business applications opens up possibilities like real-time geographic visualization of your business data, live dashboards and much more."
+        desc: "Integration allows systems to *talk* to each other. Systems that talk provide more convenient and intuitive customer interactions and let your staff focus on the customers. Integrating business applications opens up possibilities like real-time geographic visualization of your business data, live dashboards and much more."
         icon: fas fa-link       
       - title: "Implementation"
         desc: "Many systems are compatible with GIS or allow for integration. However, these systems don't talk to each other *out of the box*. I combine Geographic Information Systems experience with software development know-how to identify how to get from point A to point B. This also involves Geodatabase design, database ETL, GIS workflow optimization, ArcGIS Desktop Custom Add-ins, and good old-fashioned troubleshooting."
@@ -45,7 +45,7 @@ timeline:
         align: right
       - title: "PART OF THE PROCESS"
         year: "Be involved."
-        desc: "I've seen that, as I start to develop tools, customers start to see what's possible, bringing innovation to the way they work -- fine tuning the tools they help create. Idea sharing and continued **brainstorming along the way** produces something **better than we imagined.**"
+        desc: "I've seen that, as I start to develop tools, customers start to see what's possible. This brings innovation to the way they work -- fine tuning the tools they help create.<br><br>Idea sharing and continued **brainstorming along the way** produces something **better than we imagined.**"
         image: fas fa-hands-helping
         alt: image alt text
         #align: #default is left       
@@ -82,7 +82,7 @@ clients:
     
 team:
     title: "A BIT ABOUT ME"
-    text: "I'm a husband and father of three. I love telling dad jokes, being with my family and, playing board games. I thrive on inventing and learning."
+    text: "I'm a husband and father of three. I love telling dad jokes, being with my family, and playing board games. I thrive on inventing and learning."
     subtext: 
     section: team
     people:
@@ -136,7 +136,8 @@ footer:
         icon: fab fa-stack-overflow
 
 
-
+analytics:
+    google: G-EQQKV7H991
 
 
 # {{ site.data.sitetext.ex.ex | markdownify | default: example }}
