@@ -6,7 +6,7 @@ header:
 
 services:
     title: "Services"
-    text: "Enable your team to accomplish more."
+    text: "Enable your team to do more."
     section: services
     list:
       - title: "Automation"
