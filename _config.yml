@@ -25,6 +25,8 @@ logo:     #optional, defaults to site title
   path: assets\img\GeobilityTextLogoVectorExport.png
   height: 80 #height in px, defaults to 52px
 
+locale: "en-US" # See available languages in _data/sitetext.yml
+
 analytics:
   google: G-EQQKV7H991
 
