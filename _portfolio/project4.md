@@ -1,7 +1,7 @@
 ---
 title: High Accuracy GNSS Data Collection
 subtitle: Collect and locate your assets.
-image: assets/img/portfolio/avl.gif
+image: assets/img/portfolio/gnss_collection.jpg
 alt: 
 
 caption:
