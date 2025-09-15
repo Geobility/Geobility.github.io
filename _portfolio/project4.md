@@ -1,15 +1,15 @@
 ---
-title: Automatic Vehicle Location
-subtitle: See what's happening with your fleet.
+title: High Accuracy GNSS Data Collection
+subtitle: Collect and locate your assets.
 image: assets/img/portfolio/avl.gif
 alt: 
 
 caption:
   title: 
-  subtitle: Eyes on Your Fleet
-  thumbnail: assets/img/portfolio/avl_thumb.jpg
+  subtitle: Collect and Locate with Ease
+  thumbnail: assets/img/portfolio/GNSS_thumb.jpg
 ---
-Custom AVL solutions provided the specific functionality the City of Meridian required without the pricetag or complexity of the off-the-shelf options. Due to the focus on what was really needed, these systems were able to provide vehicle locations every 2 seconds for Police, Fire, Public Works and Building Inspections. History can be replayed for up to 2 months. A huge cost savings for small fleets and simple needs while still providing rapidly updating, real-time location information.
+New technology and equipment allow you to collect accurate locations of assets such water service connections, street signs, park benches, or even trail features. The days of setting GPS data postprocessing, exporting and importing are gone. Seamless field-to-office synchronized workflows allow you to build and locate your digital inventory using any mobile device and minimal equipment.
 
-Have ideas about how you'd like to see your fleet?
+Can I help you streamline your asset collection and location?
 
