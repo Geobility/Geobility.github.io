@@ -5,6 +5,9 @@ gem "jekyll-remote-theme"
 # If you do not want to use GitHub Pages, comment out the line below, then run bundle update.
 gem "github-pages", group: :jekyll_plugins
 
+gem "webrick", "~> 1.7"
+
+
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
 end

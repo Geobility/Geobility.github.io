@@ -1,6 +1,6 @@
 header:
-    title: Make your workflows
-    text: AUTOMATIC
+    title: Unlock smarter, more efficient workflows with
+    text: G I S
     button: LEARN HOW
     buttonlink: "#timeline" # "#{section}" or "URL/page link"
 
@@ -8,16 +8,16 @@ services:
     title: "Services"
     text: "Enable your team to do more."
     section: services
-    list:
+    list:       
+      - title: "Implementation"
+        desc: "Building a GIS requires getting to know your business needs and processes. It also involves a variety of data sources. I combine years of experience using ArcGIS Desktop software with technology know-how to identify steps and stages to get you up and running. This work includes geodatabase design, cartography, conversion, digitization, and workflow optimization."
+        icon: fas fa-hard-hat
       - title: "Automation"
-        desc: "Automating redundant and repetitive tasks allows you to put your time and effort into those that leverage your full thinking power and intuition. Perform routine analysis for planning and land development, public works utilities, dashboarding, and reporting. Extract, transform, and load data to and from other agencies and organizations on a predefined schedule—even when you're not at work."
+        desc: "Automating redundant and repetitive tasks allows you to put your time and effort into tasks that require your full thinking power and intuition. Perform routine analysis for planning and land development, public works utilities, dashboarding, and reporting. Extract, transform, and load data to and from other agencies and organizations on a predefined schedule—even when you're not at work."
         icon: fas fa-laptop-code #find more at https://fontawesome.com/icons
       - title: "Integration"
-        desc: "Integration allows systems to *talk* to each other. Systems that talk provide more convenient and intuitive customer interactions and let your staff focus on the customers. Integrating business applications opens up possibilities like real-time geographic visualization of your business data, live dashboards and much more."
-        icon: fas fa-link       
-      - title: "Implementation"
-        desc: "Many systems are compatible with GIS or allow for integration. However, these systems don't talk to each other *out of the box*. I combine Geographic Information Systems experience with software development know-how to identify how to get from point A to point B. This also involves Geodatabase design, database ETL, GIS workflow optimization, ArcGIS Desktop Custom Add-ins, and good old-fashioned troubleshooting."
-        icon: fas fa-hard-hat
+        desc: "Many systems integrate with GIS. However, these systems don't talk to each other *out of the box*—Systems that talk provide more convenient and intuitive customer interactions and let your staff focus on the customers. Integrating business applications opens up possibilities like real-time geographic visualization of your business data, live dashboards and much more."
+        icon: fas fa-link
 
 portfolio:
     title: "Portfolio"
@@ -65,7 +65,7 @@ about:
 clients:
     section: clients
     max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    horizontal-scrolling: "no" #"yes/no"
     list:
       # - title: "envato"
       #   url: https://github.com/raviriley/agency-jekyll-theme
